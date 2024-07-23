@@ -1,7 +1,7 @@
 {
   "name": "resume-builder-app",
   "version": "0.1.0",
-  "homepage": "https://GaurangPatel13.github.io/resume-builder",
+  "homepage": "https://gaurangpatel13.github.io/resume-builder",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.12.0",

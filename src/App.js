@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home";
 import DetailFilling from "./Pages/DetailsFilling";
 import CheckSelectedId from "./Components/CheckSelectedId";
@@ -7,7 +7,7 @@ import MyResumes from "./Pages/MyResumes";
 
 const App = () => {
   return (
-    <Router>
+    <HashRouter>
       <Routes>
         <Route exact path = "/" element={<Home />} />
 
@@ -22,7 +22,7 @@ const App = () => {
 
         <Route exact path="/my/resumes" element={<MyResumes />} />
       </Routes>
-    </Router>
+    </HashRouter>
   );
 };
 
