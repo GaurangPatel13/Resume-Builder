@@ -168,7 +168,7 @@
 <img width="1119" alt="image" src="https://user-images.githubusercontent.com/100461901/219925057-16f85fe1-6aa1-416f-9d88-6040e04faae0.png">
 
 *__Live Link__* <br/>
-<b> Will Be Available Soon </b>
+<b> https://gaurangpatel13.github.io/resume-builder/ </b>
 
 </hr>
 
